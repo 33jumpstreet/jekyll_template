@@ -11,20 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "파닥몬은 누구일까요"
       section: services
-    - title: "Portfolio"
+    - title: "포트폴리오"
       section: portfolio
-    - title: "About"
+    - title: "SNS"
       section: about
-    - title: "Timeline"
-      section: timeline
-    - title: "Team"
-      section: team
-    - title: "Contact"
+    - title: "연락처"
       section: contact
-    - title: "Theme Source"
-      url: https://github.com/raviriley/agency-jekyll-theme/
 en-US:
   <<: *DEFAULT_EN
 en-CA:
